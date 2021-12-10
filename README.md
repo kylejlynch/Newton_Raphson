@@ -69,8 +69,8 @@ plt.show()
 
 
     
-![png](output_8_0.png)
-    
+![output_8_0](https://user-images.githubusercontent.com/36255172/145531666-4afa787e-fd00-4d9f-888f-7fe8bc39a87b.png)
+
 
 
 As you can see, the tangent line intercepts the x-axis at x~-3.07
@@ -127,8 +127,8 @@ plt.show()
 
 
     
-![png](output_12_0.png)
-    
+![output_12_0](https://user-images.githubusercontent.com/36255172/145531695-5474f227-fa68-402c-8489-a330a281c8cd.png)
+ 
 
 
 
@@ -199,8 +199,8 @@ print(f"Final guess after 10 iterations: {round(x_guess,4)}, yielding {round(fun
 
 
     
-![png](output_18_1.png)
-    
+![output_18_1](https://user-images.githubusercontent.com/36255172/145531779-f00282ba-3e19-4dfa-a327-b037d3e30e70.png)
+
 
 
 That's all there is to it! We've successfully used a numerical method to find where y = x^3 - 100 crosses the x-axis. The solution for this example problem was trivial, but one can see that with only a few iterations the correct solution can be obtained without a calculator.
